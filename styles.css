@@ -16,5 +16,18 @@
   color: white;
 }
 /*------------------------------- 
-       Feature Bike custom style 
+Fetured Bikes 2021 custom style 
+---------------------------------*/
+.orange-color {
+  color: #e76f51;
+}
+.feture-bike {
+  width: 288px;
+  height: 243px;
+}
+.feture-bike-gray {
+  filter: grayscale(100%);
+}
+/*------------------------------- 
+    Happy News custom style 
 ---------------------------------*/
