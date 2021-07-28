@@ -1,0 +1,20 @@
+/*------------------------------- 
+       Header custom style 
+---------------------------------*/
+.header-background {
+  background-color: #264653;
+}
+.button-style {
+  background-color: #e76f51;
+  padding: 10px 46px;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+}
+.button-style:hover {
+  background-color: #db5d3e;
+  color: white;
+}
+/*------------------------------- 
+       Feature Bike custom style 
+---------------------------------*/
